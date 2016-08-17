@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry sourcepath="extLib/jacksum-src.zip" kind="lib" path="extLib/jacksum.jar"/>
+	<classpathentry sourcepath="extLib/foxtrot-src.jar" kind="lib" path="extLib/foxtrot.jar"/>
+	<classpathentry kind="lib" path="extLib/forms-1.0.4.jar"/>
+	<classpathentry kind="lib" path="extLib/looks-1.2.1.jar"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
