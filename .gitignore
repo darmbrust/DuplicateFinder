@@ -1,1 +1,5 @@
 /classes/
+/antBuild/
+/docs/javadocs/
+/bin/
+/myKeystore
