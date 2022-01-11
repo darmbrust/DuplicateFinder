@@ -15,24 +15,25 @@
 
 **Screen Shot**
 
-![](http://armbrust.dyndns.org/programs/duplicateFinder/duplicateFinder.jpg)
+![](https://user-images.githubusercontent.com/5016252/148861822-1ca5ed51-5705-4a9b-83f8-925d2374b1c5.jpg)
 
 **CAUTION!**
 
-This program will delete files (by design) when you tell it to. There is no undo feature. It will not put files into your recycle bin. I HIGHLY recommend that you make a copy of the folders you want to search for duplicates, before you do your removals. This way, if there is some really ugly bug in the program that causes the wrong files to be deleted, you still have your files. YOU HAVE BEEN WARNED! I will not be responsible for any of your files if you lose them.
+This program will delete files (by design) when you tell it to. There is no undo feature. It will not put files into your recycle bin. 
+I HIGHLY recommend that you make a copy of the folders you want to search for duplicates, before you do your removals. This way, if there is some 
+really ugly bug in the program that causes the wrong files to be deleted, you still have your files. YOU HAVE BEEN WARNED! I will not be responsible 
+for any of your files if you lose them.
+
 Requirements
 
-You will need to have Java version 1.4 or newer installed to use this program.
+You will need to have Java version 1.8 or newer installed to use this program.  You can get it [here](https://adoptopenjdk.net/)
 
 **Download**
 
 (you agree to [this](LICENSE) license by downloading this software)
 
-Click [here](http://armbrust.dyndns.org/programs/duplicateFinder/DuplicateFinder.jnlp) to launch the program with webstart.
-
-Note: When you first start the program, java will recommend that you not run the program because their is no proper signing authority. You will just have trust that no one has hacked my webserver, and replaced the program with a malicious one.
-
-Otherwise, you can download just the executable: [duplicateFinder.jar](http://armbrust.dyndns.org/programs/duplicateFinder/duplicateFinder.jar). If you have java installed correctly on your machine, simply double clicking on the file should launch the program. If not, try "java -jar duplicateFinder.jar".
+Download just the executable: [duplicateFinder.jar](https://github.com/darmbrust/DuplicateFinder/releases/download/1/duplicateFinder.jar). 
+If you have java installed correctly on your machine, simply double clicking on the file should launch the program. If not, try "java -jar duplicateFinder.jar".
 
 **Bugs**
 
